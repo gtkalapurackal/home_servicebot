@@ -19,8 +19,8 @@ in this project a robot will deliver a virtual object from a instructed location
      1. change the directory to match your catkin workspace 
      2. source devel/setup.bash 
  there 5 scripts  
-  1. one for testing the slam 
-  2. one for testing the map and navigation 
-  3. one for setting the pick up package 
-  4. one for setting up the virtual object hide and seek 
-  5. one for setting up final home service bot . 
+  1. slam_testing.sh for testing the slam 
+  2. navigation_testing.sh for testing the map and navigation 
+  3. pick_object.sh for setting the pick up package 
+  4. add_markers.sh for setting up the virtual object hide and seek 
+  5. final_home_servicebot.sh for setting up final home service bot . 
